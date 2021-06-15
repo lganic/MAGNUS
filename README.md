@@ -1,6 +1,8 @@
 # MAGNUS
 program for ti-84 to do basic and advanced operations on vectors 
 
+to download onto calculator, download ti connect and drag both MAGNUS and VCLIB to your calculator, yes both are required. to run this program dont run VCLIB, run MAGNUS. 
+
 how to use:
 vectors are represeneted by their components and should be input like this: (1,2,3)
 2 dimensional vectors are also supported and are input as such: (1,2)
