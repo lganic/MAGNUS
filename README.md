@@ -24,9 +24,9 @@ vector multiplication by scalar: (1,2,3)^5^ or ^5^(1,2,3)
 
 angle between two vectors: (1,2,3)A(4,5,6)
 
-absolute value of vector abs(-1,-2,-3)
+absolute value of vector abs(-1,-2,-3) NOTE: abs( can be typed using 2nd 0 Enter
 
-vector projection (1,2,3)P(4,5,6) note that this projects (1,2,3) onto (4,5,6)
+vector projection (1,2,3)P(4,5,6) NOTE: this projects (1,2,3) onto (4,5,6)
 
 magnitude of vector M(1,2,3)
 
