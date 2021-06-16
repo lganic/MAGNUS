@@ -22,6 +22,8 @@ vector subtraction (1,2,3)-(4,5,6)
 
 vector multiplication by scalar: (1,2,3)^5^ or ^5^(1,2,3)
 
+vector division by scalar: (1,2,3)/^5^
+
 angle between two vectors: (1,2,3)A(4,5,6)
 
 absolute value of vector abs(-1,-2,-3) NOTE: abs( can be typed using 2nd 0 Enter
